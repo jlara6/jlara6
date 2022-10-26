@@ -1,4 +1,4 @@
-I am an Electromechanical Engineer from the Universidad de las Fuerzas Armadas - ESPE (Ecuador). CONICET Doctoral Fellow in Electrical Engineering at the National University of San Juan (Argentina). Part of the research and development group of Smart Grids of the Instituto De Energía Eléctrica (IEE), where I research areas related to distributed energy resources, efficient use of electrical energy, quality and application of machine learning algorithms and data analysis in real-time operation.
+I am an Electromechanical Engineer from the Universidad de las Fuerzas Armadas - ESPE (Ecuador). CONICET fellow and PhD. student in Electrical Engineering at the National University of San Juan (Argentina). Part of the research and development group of Smart Grids of the Instituto De Energía Eléctrica (IEE), where I research areas related to distributed energy resources, efficient use of electrical energy, quality and application of machine learning algorithms, and data analysis in real-time operation.
 
 **Work experience:**
 - Studies of electrical protections in transmission and distribution.
