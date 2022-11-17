@@ -2,6 +2,7 @@ I am an Electromechanical Engineer from the Universidad de las Fuerzas Armadas -
 
 **Work experience:**
 - Studies of electrical protections in transmission and distribution.
+- Coordinator of the Inter-American Development Bank's investment projects in transmission and distribution power grids  
 - Consulting in electrical distribution companies.
 - Simulation of electrical networks in Digsilent, Cymdist, and ETAP.
 - Developed open-source projects in OpenDSS and Python.
